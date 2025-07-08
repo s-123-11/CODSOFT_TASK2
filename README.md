@@ -1,5 +1,5 @@
 ---
-### ✅ Task 3: Password Generator (CLI)
+### ✅ Task 2: Password Generator (CLI)
 
 A simple Python program to generate strong passwords via command-line.
 
@@ -28,7 +28,7 @@ python password_generator.py
 - *Name:* Shashank R  
 - *CIN:* CS25RY64293  
 - *Internship Provider:* CodSoft  
-- *Batch:* June 2025  
+- *Batch:* June 2025 (B33)
 - *Project Track:* Python Programming (CLI)
 
 ---
